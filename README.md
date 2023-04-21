@@ -12,9 +12,9 @@
 
 |   | Run |
 | - | --- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NinelK/IMBIZO2023_population_SOLUTIONS/blob/main/Part1_static.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NinelK/IMBIZO2023_population_SOLUTIONS/blob/main/Part2_dynamic.ipynb) |
-| Tutorial 3 (Bonus) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NinelK/IMBIZO2023_population_SOLUTIONS/blob/main/Part3_bonus_nonlinear_dynamic.ipynb) |
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NinelK/IMBIZO2023_population_SOLUTIONS/blob/main/Part1_static_SOLUTIONS.ipynb) |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NinelK/IMBIZO2023_population_SOLUTIONS/blob/main/Part2_dynamic_SOLUTIONS.ipynb) |
+| Tutorial 3 (Bonus) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NinelK/IMBIZO2023_population_SOLUTIONS/blob/main/Part3_bonus_nonlinear_dynamic_SOLUTIONS.ipynb) |
 
 
 ## If you want to run locally, follow the steps given below:
